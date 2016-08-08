@@ -57,6 +57,7 @@ class ServiceWithAttributes
 end
 
 ServiceWithAttributes.(name: "George") # => "George"
+```
 
 Additionally, you can define collaborators with default values using `attribute`.
 
